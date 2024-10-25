@@ -1,5 +1,5 @@
 # lfi_looter
-Automates the LFI data exfiltration process using a wordlist of your choice, allows you to exfil data to a directory of your choice.<br>
+Automates the LFI data exfiltration process using a wordlist of your choice, allows you to exfil data to a directory.<br>
 There are two modes to this tool, looter and console. Looter automates the process using a wordlist where as console allows you to manually exfil files<br>
 
 Looter:<br>
